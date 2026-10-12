@@ -4,7 +4,7 @@
 Name:		python-deprecated
 Summary:	Python @deprecated decorator to deprecate old python classes, functions or methods.
 Version:	1.3.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/d/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 URL:		https://pypi.org/project/deprecated/
 License:	MIT
